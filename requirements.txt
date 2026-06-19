@@ -1,0 +1,6 @@
+## This file lists all the dependencies required to run the project.
+pylint
+pytest
+click
+black
+pytest-cov
